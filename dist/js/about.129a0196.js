@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkportfolio_site"]=self["webpackChunkportfolio_site"]||[]).push([[443],{8924:function(t,e,s){s.r(e),s.d(e,{default:function(){return c}});var u=s(3396);s(8257);const n={class:"about"},o=(0,u._)("h1",null,"This is an about page",-1),a=[o];var i={__name:"AboutView",setup(t){return(t,e)=>((0,u.wg)(),(0,u.iD)("div",n,a))}};const r=i;var c=r}}]);
+//# sourceMappingURL=about.129a0196.js.map
